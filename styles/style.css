@@ -5,13 +5,13 @@ body{
 
 .btn1 {
     width: 20%;
-    background-color: green;
+    background-color: blue;
 }
 .btn2 {
     width: 20%;
-    background-color: red;
+    background-color: white;
 }
 .btn3 {
     width: 20%;
-    background-color: yellow;
+    background-color: red;
 }
