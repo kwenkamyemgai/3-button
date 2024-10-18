@@ -1,17 +1,19 @@
-body{
-    justify-content: center;
-    text-align: center;
+body {
+  justify-content: center;
+  text-align: center;
 }
 
 .btn1 {
-    width: 20%;
-    background-color: green;
+  width: 20%;
+  background-color: #00f;
 }
+
 .btn2 {
-    width: 20%;
-    background-color: red;
+  width: 20%;
+  background-color: #f00;
 }
+
 .btn3 {
-    width: 20%;
-    background-color: yellow;
+  width: 20%;
+  background-color: #ff0;
 }
